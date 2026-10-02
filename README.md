@@ -6,7 +6,7 @@
 
 ## About **James**
 
-I'm **James**, a software developer who enjoys shipping useful products, learning new tools, and writing code that other people can actually maintain.
+I'm a curious and enthusiastic Software Engineer who enjoys continuous learning and exploring new technologies, especially AI.
 
 - 🔭 Building web apps and APIs end to end
 - 🌱 Currently exploring system design, cloud, and better testing habits
